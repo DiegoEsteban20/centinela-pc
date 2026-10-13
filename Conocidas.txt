@@ -1,0 +1,6 @@
+# IP de internet que ya reconoces y NO quieres que te marque como "nueva".
+# Una por línea. Lo que vaya después del espacio es una nota para ti.
+# Ejemplos (reemplaza por las que veas en tu reporte):
+# 162.159.128.233   Discord
+# 23.52.11.9        Steam
+# 142.250.0.0       Google / YouTube
